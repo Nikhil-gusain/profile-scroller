@@ -1,0 +1,120 @@
+[{
+    "Name":"ROBERT",
+    "Age":19,
+    "Job":"scientist",
+    "Income":"30 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/5.jpg"
+
+},
+{
+    "Name":"DAVID",
+    "Age":22,
+    "Job":"enginiar",
+    "Income":"20 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/10.jpg"
+
+},
+{
+    "Name":"CHARLES",
+    "Age":32,
+    "Job":"doctor",
+    "Income":"20 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/15.jpg"
+
+},
+{
+    "Name":"CHRISTOPHER",
+    "Age":18,
+    "Job":"lawyer",
+    "Income":"15 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/20.jpg"
+
+},
+{
+    "Name":"PAUL",
+    "Age":24,
+    "Job":"machenic",
+    "Income":"9 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/25.jpg"
+
+},
+{
+    "Name":"DANIEL",
+    "Age":23,
+    "Job":"bank maneger",
+    "Income":"18 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/30.jpg"
+
+},
+{
+    "Name":"GEORGE",
+    "Age":30,
+    "Job":"teacher",
+    "Income":"7 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/35.jpg"
+
+},
+{
+    "Name":"BRIAN",
+    "Age":20,
+    "Job":"IPS",
+    "Income":"19 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/40.jpg"
+
+},
+{
+    "Name":"KEVIN",
+    "Age":27,
+    "Job":"pilot",
+    "Income":"15 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/45.jpg"
+
+},
+{
+    "Name":"GARY",
+    "Age":24,
+    "Job":"navy solder",
+    "Income":"18 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/50.jpg"
+
+},
+{
+    "Name":"LARRY",
+    "Age":26,
+    "Job":"business",
+    "Income":"100 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/55.jpg"
+
+},
+{
+    "Name":"ANDREW",
+    "Age":25,
+    "Job":"tranporation",
+    "Income":"6 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/60.jpg"
+
+},
+{
+    "Name":"PETER",
+    "Age":30,
+    "Job":"Amazon executive",
+    "Income":"13 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/65.jpg"
+
+},
+{
+    "Name":"CARL",
+    "Age":31,
+    "Job":"Youtuber",
+    "Income":"50 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/70.jpg"
+
+},
+{
+    "Name":"JAMES",
+    "Age":27,
+    "Job":"event manager",
+    "Income":"10-20 LPA",
+    "Image":"https://randomuser.me/api/portraits/men/75.jpg"
+
+}]
